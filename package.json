@@ -1,6 +1,6 @@
 {
-  "hostname": "http://panda-satyabrata.github.io/covid19tracker",
-  "name": "covid-tracker",
+  "homepage": "http://panda-satyabrata.github.io/covid19tracker/",
+  "name": "covid19tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
